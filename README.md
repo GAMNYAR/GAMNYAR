@@ -1,16 +1,16 @@
-## Hi there 👋
+### Привет! Я Данил (GAMNYAR) 👋
 
-<!--
-**GAMNYAR/GAMNYAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Разрабатываю полезные инструменты для автоматизации на C# и .NET.
+💻 Компьютерный мастер, люблю делать сложные вещи простыми.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Мой главный проект:
+- 🪰 **[BotLauncher](https://github.com/GAMNYAR/BotLauncher)** — мощная программа для автоматизации Telegram-ботов (отправка по шаблонам, медиа, реакции, автоудаление).
+
+### 📫 Как со мной связаться:
+- Telegram: [@gamnyar](https://t.me/gamnyar)
+- GitHub Issues: [Предложить идею или сообщить о баге](https://github.com/GAMNYAR/BotLauncher/issues)
+
+---
+*Спасибо, что заглянули!*
